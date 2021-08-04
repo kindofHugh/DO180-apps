@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Greetings, Starfighter. You have been recruited by the Star League to defend the frontier against Xur and the Ko-Dan armada" . PHP_VERSION . "\n";
 ?>
